@@ -21,6 +21,7 @@ class MyApp extends StatelessWidget {
       theme: theme,
       debugShowCheckedModeBanner: false,
       routerConfig: router,
+      
       // routeInformationParser: router,
       
     );
